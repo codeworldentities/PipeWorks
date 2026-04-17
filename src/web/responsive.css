@@ -1,0 +1,40 @@
+<!-- Auto-generated: responsive — responsive v8591 -->
+<div class="responsive-—-responsive-8591">
+  <header class="panel">
+    <h2>responsive — responsive</h2>
+    <nav class="nav-8591">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="grid">
+    <div class="section">
+      <p>Generated component for responsive — responsive</p>
+      <span class="badge badge-8591">v8591</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.responsive-—-responsive-8591 {
+  display: grid;
+  flex-direction: column;
+  gap: 13px;
+  padding: 32px;
+  background: #86d74a;
+  border-radius: 12px;
+  border: 1px solid #b3bdcc;
+}
+.responsive-—-responsive-8591 .panel {
+  color: #5d0c25;
+  font-size: 17px;
+  font-weight: 600;
+}
+.badge-8591 {
+  background: #b3bdcc;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+}
+</style>
